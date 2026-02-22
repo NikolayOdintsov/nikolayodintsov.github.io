@@ -135,6 +135,7 @@ body {
 }
 
 .pedal-name {
+  text-align: center;
   font-family: "Cronos Pro", serif;
   letter-spacing: 0.18em;
   text-transform: uppercase;
